@@ -5,6 +5,7 @@
 Install the dependencies...
 
 ```bash
+git clone https://github.com/flavien-hugs/svelte-todo-app.git
 cd svelte-todo-app
 npm install
 ```
